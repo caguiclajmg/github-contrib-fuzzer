@@ -12,11 +12,11 @@ $ ./github-contrib-fuzzer -df 2017-01-01 -dt 2018-01-01` /home/user/my-repositor
 
 ### Options
 
-`--df|--date-from` - Date to start generating commits
+`-df|--date-from` - Date to start generating commits
 
-`--dt|--date-to` - Date to end generating commits
+`-dt|--date-to` - Date to end generating commits
 
-`--f|--target-file` - File used to generate commits
+`-f|--target-file` - File used to generate commits
 
 `-m|--draw-message` - Make commits on certain days as to make the specified message appear on the contribution graph
 
