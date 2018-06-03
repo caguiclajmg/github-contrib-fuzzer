@@ -2,6 +2,8 @@
 
 A Bash script that makes your contribution graph green.
 
+![Contribution Graph 2](docs/snapshot2.png "Contribution Graph 2")
+
 ## Requirements
 
 + Bash (>= 3.2.57)
