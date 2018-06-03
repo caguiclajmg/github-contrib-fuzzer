@@ -2,6 +2,11 @@
 
 A Bash script that makes your contribution graph green.
 
+## Requirements
+
++ Bash (>= 3.2.57)
++ GNU Coreutils
+
 ## Usage
 
 Generate random number of commits each day throughout the specified dates on a specified repository:
