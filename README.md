@@ -2,6 +2,12 @@
 
 A Bash script that makes your contribution graph green.
 
+Want to greenify your contribution graph?
+
+![Contribution Graph 1](docs/snapshot1.png "Contribution Graph 1")
+
+or write anything you want?
+
 ![Contribution Graph 2](docs/snapshot2.png "Contribution Graph 2")
 
 ## Requirements
